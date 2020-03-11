@@ -17,10 +17,10 @@ SSGI Enabled
 SSGI Disabled
 
 ## Setup
-| Parameter | Role | Note |
-|-----------|------|------|
-| SamplesCount | How many samples to use | A value between 8 and 16 is fine for performances |
-| IndirectAmount | Indirect GI Boost | No cost on performances |
+| Parameter | Role | 
+|-----------|------|
+| SamplesCount | How many samples to use. A value between 8 and 16 is fine for performances |
+| IndirectAmount | Indirect GI Boost. No cost on performances |
 | NoiseAmount | Add some noise to the final render, impact performances, keep it lower to 2 |
 | Noise | Enable or not the noise |
 
