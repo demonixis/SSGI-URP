@@ -28,7 +28,7 @@ SSGI Disabled
 - Create or open a URP project
 - Open the Package Manager window
 - Add this repository as a package by clicking on the + icon
-- Past `git@github.com:demonixis/SSGI-URP.git`
+- Past `https://github.com/demonixis/SSGI-URP.git`
 - Add a new SSGI Render Feature to your Renderer
 - Use the SSGI material
 - Have fun!

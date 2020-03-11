@@ -1,7 +1,7 @@
 {
   "name": "demonixis.rendererfeatures.ssgi-urp",
   "version": "0.1.0-preview",
-  "displayName": "Screen Space Global Illumination for Universal Render Pipeline",
+  "displayName": "SSGI-URP",
   "unity": "2019.1",
   "description": "This is a port of a SSGI shader by Martins Upitis for godot Engine to Unity",
   "type": "sample"  
